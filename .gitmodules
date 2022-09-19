@@ -8,8 +8,3 @@
 	url = https://github.com/jknowles/eeptools
 	shallow = true
 	registered = true
-[submodule "merTools"]
-	path = merTools
-	url = https://github.com/jknowles/mertools
-	shallow = true
-	registered = true
