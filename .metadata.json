@@ -2,5 +2,9 @@
   {
     "package": "eeptools",
     "oncran": true
+  },
+  {
+    "package": "merTools",
+    "oncran": true
   }
 ]
