@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "eeptools"]
 	path = eeptools
 	url = https://github.com/jknowles/eeptools
-	shallow = true
-	registered = true
 [submodule "merTools"]
 	path = merTools
 	url = https://github.com/jknowles/mertools
-	shallow = true
-	registered = true
